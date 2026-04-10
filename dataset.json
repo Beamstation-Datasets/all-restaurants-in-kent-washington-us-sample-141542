@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Kent, Washington with a population of over 136k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Kent, Washington, US",
+  "export_job_id": "cadf7d71-4344-4e52-9bba-5768cf50cabd",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 141542,
+  "location_name": "Kent",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-kent-washington-us-sample-141542",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/141542/beamstation_141542_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 9.75,
+  "sample_records": 35,
+  "sample_sha256": "9920afe736232afacb5506a7421e14b411dfb302fd57eba2a344092825636e69",
+  "sample_size_bytes": 142131,
+  "total_records": 359,
+  "updated_at": "2026-04-07T11:19:10.900989+00:00"
+}
