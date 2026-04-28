@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1f97d096-1aaa-4239-b749-d719788503b8",
+  "export_job_id": "676b4a61-c88b-4027-a73e-12da60d731b0",
   "id_short": 141542,
-  "published_at": "2026-04-21T19:04:29Z",
+  "published_at": "2026-04-28T19:05:49Z",
   "repo_name": "all-restaurants-in-kent-washington-us-sample-141542",
   "sample_asset_name": "beamstation_141542_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/141542/beamstation_141542_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "ebf15bbb3691b0798e6aca959122ee567e7ffa8a81849a3fb6a52d3a3f4b88e8",
-  "sample_size_bytes": 118835,
-  "total_records": 318
+  "sample_records": 36,
+  "sample_sha256": "0222992082ffbf0b20d7646ba78eb29ef0a329027a674a18b93713b72e7c2c82",
+  "sample_size_bytes": 142590,
+  "total_records": 366
 }
