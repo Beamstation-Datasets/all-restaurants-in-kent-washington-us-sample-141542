@@ -1,6 +1,6 @@
 # All Restaurants in Kent, Washington, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 38 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `141542` |
 | Location | Kent |
 | Category | Restaurants |
-| Full dataset size | 366 records |
-| Free sample size | 36 records (9.84%) |
-| Last export | 2026-04-28T12:27:50.858184+00:00 |
+| Full dataset size | 383 records |
+| Free sample size | 38 records (9.92%) |
+| Last export | 2026-05-05T19:54:41.490127+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kent-washington-us-sample-141542/releases/download/sample-latest/beamstation_141542_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
